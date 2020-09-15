@@ -1,0 +1,106 @@
+.App {
+  text-align: center;
+}
+
+.navbar-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(18, 114, 10);
+}
+
+.li-nav {
+  float: left;
+}
+
+.li-nav a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: black;
+}
+.catg{
+  background-color: #eee;
+  border: 3px solid #ddd;
+  padding: 15px;
+  margin: 10px;
+  list-style-type: none;
+
+}
+.catg a {
+  display: block;
+  color:  rgb(104, 116, 2);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.catg a:hover {
+  background-color: rgb(6, 165, 138);
+}
+.htcatg{
+  background-color: #eee;
+  border: 1px  solid #ddd;
+  border-width:5px;
+  text-align: center;
+  padding: 10px 0px;
+  margin: 80px; 
+}
+.prdct{
+ margin: 50px;
+}
+.prdct a {
+  display: block;
+  color: rgb(104, 116, 2);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: wavy;
+}
+.prdct a:hover {
+  background-color: rgb(6, 165, 138);
+}
+.htpdct{
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(170, 4, 106);
+}
+.log{
+  display: block;
+  text-align: center;
+  padding: 10px 10px;
+  margin: 40px 500px;
+  background-color: #eee;
+  border: 1px  solid #ddd;
+  border-width:5px;
+}
+.prg{
+  color: rgb(170, 4, 106) ;
+  margin: 70px 50px 10px 30px;
+}
+
+.hhome  {
+background-image: url('https://dsim.in/blog/wp-content/uploads/2017/03/feature-3.jpg') ;
+padding: 200px ;
+margin: 160px 300px 0px 300px;
+color:transparent;
+border: 10px  solid rgba(4, 114, 50, 0.932) ;
+}
+.hadwelc {
+  color: rgb(141, 5, 134);
+  text-align: center;
+  margin: 100px 500px 0px 500px;
+  padding: 100px;
+  border: 1px  solid rgb(99, 96, 96) ;
+  background-color: #eee;  
+}
+
+.sorry{
+  margin: 0px 0px 0px 600px ;
+  color: rgb(69, 150, 123);
+}
+
+
